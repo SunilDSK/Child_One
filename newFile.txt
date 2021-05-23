@@ -1,1 +1,2 @@
 This is a new file that I want to push to github
+This is master editing the file
